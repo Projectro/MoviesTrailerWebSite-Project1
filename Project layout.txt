@@ -1,0 +1,21 @@
+video class
+- title
+- duration
+
+  Movie class
+    - title(parent)
+    - duration(parent)
+    - storyLine
+    - posterImageUrl
+    - YoutubeTrailerUrl
+    - Rating
+
+  TVshow class
+    - title(parent)
+    - duration(parent)
+    - storyline
+    - posterImageUrl
+    - youtubeTrailerURL
+    - No. of seasons
+    - No. of episodes
+    - Rating
